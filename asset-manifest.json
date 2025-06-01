@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/youssef124wael/todo-simulator/static/css/main.f38ff87a.css",
-    "main.js": "/youssef124wael/todo-simulator/static/js/main.40e04227.js",
-    "static/js/453.db05d1ca.chunk.js": "/youssef124wael/todo-simulator/static/js/453.db05d1ca.chunk.js",
-    "index.html": "/youssef124wael/todo-simulator/index.html",
-    "main.f38ff87a.css.map": "/youssef124wael/todo-simulator/static/css/main.f38ff87a.css.map",
-    "main.40e04227.js.map": "/youssef124wael/todo-simulator/static/js/main.40e04227.js.map",
-    "453.db05d1ca.chunk.js.map": "/youssef124wael/todo-simulator/static/js/453.db05d1ca.chunk.js.map"
+    "main.css": "/todo-simulator/static/css/main.f38ff87a.css",
+    "main.js": "/todo-simulator/static/js/main.cabf202c.js",
+    "static/js/453.db05d1ca.chunk.js": "/todo-simulator/static/js/453.db05d1ca.chunk.js",
+    "index.html": "/todo-simulator/index.html",
+    "main.f38ff87a.css.map": "/todo-simulator/static/css/main.f38ff87a.css.map",
+    "main.cabf202c.js.map": "/todo-simulator/static/js/main.cabf202c.js.map",
+    "453.db05d1ca.chunk.js.map": "/todo-simulator/static/js/453.db05d1ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f38ff87a.css",
-    "static/js/main.40e04227.js"
+    "static/js/main.cabf202c.js"
   ]
 }
